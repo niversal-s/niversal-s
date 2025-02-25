@@ -1,16 +1,26 @@
-## Hi there 👋
+# Привет, меня зовут Сергей! 👋
 
-<!--
-**niversal-s/niversal-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Обо мне:**
+Я — разработчик-новичок, увлечённый созданием качественных и инновационных решений. Мне нравится решать задачи, изучать новые технологии и делиться своими знаниями с другими.
 
-Here are some ideas to get you started:
+![Котик_программист](https://gifs.obs.ru-moscow-1.hc.sbercloud.ru/eef685eda3e1e5119037df64cba54f2e921f83863fbb2c7391c8e0f34836ca51.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ **Мои навыки и технологии:**
+
+- **Языки программирования:** C, C++, js
+- **Базы данных:** MySQL, PostgreSQL
+- **Инструменты:** Git, Docker, CI/CD
+- **ОС:** Linux (Ubuntu), Windows
+
+---
+
+## 📫 **Как со мной связаться:**
+
+- **Email:** turuncev97@mail.ru
+- **Telegram:** [@ваш_telegram](https://t.me/seryiqwq)
+
+---
+
+⭐ **Спасибо за посещение моего профиля!** Если вам понравились мои проекты, не забудьте поставить звезду ⭐!
